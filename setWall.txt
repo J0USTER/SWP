@@ -1,0 +1,2 @@
+cd C:\ordeopzaken\ordeopzaken
+setWallpaper itl_cover_l.jpg
